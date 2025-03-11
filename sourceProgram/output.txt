@@ -1,0 +1,63 @@
+Present time: 2024.12.24 17:33:09
+sin(0)=0
+cos(PI/2)=3.96633e-13
+sin(PI/2)=1
+cos(5*PI/2)=1.98272e-12
+sin(PI/6)=0.5
+cos(-PI/3)=0.5
+cos(PI/4)=0.707107
+sin(100*PI+PI*6)=-8.41341e-11
+sin(100*PI+PI/6)=0.5
+	ERROR: You don't input.
+ 1   +1=2
+1+@1	ERROR: Invalid character.
+1/(-1+1)	ERROR: Division by zero.
+sin1	ERROR: It's should be '(' after function.
+sqrt(-1.1+1)	ERROR: Invalid argument for sqrt.
+lg(-1.1+1)	ERROR: Invalid argument for lg.
+ln(-1.1+1)	ERROR: Invalid argument for ln.
+(-1+1)^0	ERROR: The exponent of 0 must be greater than 0.
+g(1+1)	ERROR: The function doesn't exist.
+1.11.1+2	ERROR: The inputted number is illegal.
+(1+(1-1)	ERROR: The number of '(' isn't equal to the number of ')'.
+)1(	ERROR: The parentheses are nested incorrectly.
+(1+)	ERROR: It should be a number after operator.
+1++1	ERROR: It should be a number after operator.
+()	ERROR: The expression includes empty parentheses.
+sin(PI/2)+ln(e^2+(e+2e))=3.49381
+	ERROR: You don't input.
+ln(e)+sin(ln(e^(PI/2)))=2
+ln(e)+sin(lg(100)+(-2+PI/2))=2
+sin(PI/2)+ln(e^2+(e+2*e))=3.74367
+
+Present time: 2024.12.24 17:34:24
+sin(0)=0
+cos(PI/2)=0
+sin(PI/2)=1
+cos(5*PI/2)=0
+sin(PI/6)=0.5
+cos(-PI/3)=0.5
+cos(PI/4)=0.707107
+sin(100*PI+PI*6)=0
+sin(100*PI+PI/6)=0.5
+	ERROR: You don't input.
+ 1   +1=2
+1+@1	ERROR: Invalid character.
+1/(-1+1)	ERROR: Division by zero.
+sin1	ERROR: It's should be '(' after function.
+sqrt(-1.1+1)	ERROR: Invalid argument for sqrt.
+lg(-1.1+1)	ERROR: Invalid argument for lg.
+ln(-1.1+1)	ERROR: Invalid argument for ln.
+(-1+1)^0	ERROR: The exponent of 0 must be greater than 0.
+g(1+1)	ERROR: The function doesn't exist.
+1.11.1+2	ERROR: The inputted number is illegal.
+(1+(1-1)	ERROR: The number of '(' isn't equal to the number of ')'.
+)1(	ERROR: The parentheses are nested incorrectly.
+(1+)	ERROR: It should be a number after operator.
+1++1	ERROR: It should be a number after operator.
+()	ERROR: The expression includes empty parentheses.
+sin(PI/2)+ln(e^2+(e+2e))=3.49381
+	ERROR: You don't input.
+ln(e)+sin(ln(e^(PI/2)))=2
+ln(e)+sin(lg(100)+(-2+PI/2))=2
+sin(PI/2)+ln(e^2+(e+2*e))=3.74367
